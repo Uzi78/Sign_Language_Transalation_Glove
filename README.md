@@ -48,7 +48,7 @@ Flutter
 
 ### Clone the repository:
 
-git clone https://github.com/hba777/sign_glove_application.git
+git clone https://github.com/Uzi78/Sign_Language_Transalation_Glove.git
 
 ### Install required dependencies:
 
